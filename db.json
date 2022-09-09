@@ -1,0 +1,30 @@
+{
+  
+  "temperature": [
+    {
+      "id": 1,
+      "monday":23,
+      "value": 23
+    },
+    {
+      "id": 2,
+      "tuesday":24,
+      "value": 24
+    },
+    {
+      "id": 3,
+      "wednesday":22,
+      "value": 22
+    },
+    {
+      "id": 4,
+      "thursday":23,
+      "value": 23
+    },
+    {
+      "id": 5,
+      "friday":25,
+      "value": 25
+    }
+  ]
+}
