@@ -1,0 +1,29 @@
+
+
+.front{
+    background-size: cover;
+    background-image: url(../img/tornado.jpg);
+    background-repeat:repeat-y;
+width:600px;
+    height: 600px;
+    align-content: center;
+}
+
+.font{
+    color:rgb(17, 19, 19);
+    font-size:50px;
+    text-align: center;
+    padding-top: 50px;
+    
+    border-radius:25px ;
+}
+
+#btn{
+    background-color: aquamarine;
+    height: 50px;
+    width:50px;
+    border-radius: 25px;
+    
+
+
+}
